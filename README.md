@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm CoderOK 👋
 
-<!--
-**2CoderOK/2coderok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Audio Tech & AI Agent Specialist
 
-Here are some ideas to get you started:
+I build software that bridges the gap between complex logic and simple, high-performance execution. From real-time audio systems and embedded hardware to minimalistic AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🦾 Current Project: UnoClaw
+I recently released **[UnoClaw](https://github.com/2coderok/unoclaw)** — a minimalistic, single-file AI agent designed for hackers and researchers. 
+* *Why?* To prove that a powerful AI assistant with memory and task scheduling doesn't need to be a "black box" of bloated frameworks.
+
+---
+
+## 🛠️ What I do
+* **AI & Automation:** Designing agentic loops and tool-calling systems.
+* **Audio & MIDI:** Developer behind [JazzPianoLab](https://jazzpianolab.app).
+* **Systems & Embedded:** C++/Python for performance-critical apps and DIY hardwar
+
+---
+
+## 🚀 Let's Build Together
+**I am currently open to new opportunities, collaborations, and freelance projects.**
+
+Need help taking a project from an idea to a working **MVP**? 
+I'm here to help you with that :)
+
+📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/bondarchukv/) | [YouTube](https://www.youtube.com/@coderok)
+
+---
+
+### 🧰 Tech Stack
+`Python` `C++` `Flask` `MariaDB` `Redis` `Celery` `MIDI/Audio` `Docker` and many more :)
