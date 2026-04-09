@@ -1,8 +1,8 @@
 # Hi, I'm CoderOK 👋
 
-### Software Engineer | Audio Tech & AI Agent Specialist
+### Software Engineer | Audio Tech & AI Specialist
 
-I build software that bridges the gap between complex logic and simple, high-performance execution. From real-time audio systems and embedded hardware to minimalistic AI agents.
+I build software that bridges the gap between complex logic and simple, high-performance execution. From real-time audio systems and embedded hardware to web services and AI enabled applications.
 
 ---
 
@@ -13,6 +13,7 @@ I recently released **[UnoClaw](https://github.com/2coderok/unoclaw)** — a min
 ---
 
 ## 🛠️ What I do
+* **Web & Destkop:** Creating web application, services, utilities and deskop applications.
 * **AI & Automation:** Designing agentic loops and tool-calling systems.
 * **Audio & MIDI:** Developer behind [JazzPianoLab](https://jazzpianolab.app).
 * **Systems & Embedded:** C++/Python for performance-critical apps and DIY hardwar
@@ -22,12 +23,9 @@ I recently released **[UnoClaw](https://github.com/2coderok/unoclaw)** — a min
 ## 🚀 Let's Build Together
 **I am currently open to new opportunities, collaborations, and freelance projects.**
 
-Need help taking a project from an idea to a working **MVP**? 
+Need help taking a project from an idea to a working **Product**? 
 I'm here to help you with that :)
 
 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/bondarchukv/) | [YouTube](https://www.youtube.com/@coderok)
 
----
 
-### 🧰 Tech Stack
-`Python` `C++` `Flask` `MariaDB` `Redis` `Celery` `MIDI/Audio` `Docker` and many more :)
