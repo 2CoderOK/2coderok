@@ -9,7 +9,7 @@ I build software that bridges the gap between complex logic and simple, high-per
 ## 🚀 Latest Projects
 
 *   **[Prompt-N-Click](https://github.com/2coderok/prompt-n-click)** — An AI game generation project exploring automated, prompt-driven interactive experiences. 
-*   **[UnoClaw](https://github.com/2coderok/unoclaw)** & **DuoClaw** — Minimalistic, single-file Python AI agents designed for hackers and researchers. Built to prove that a powerful AI assistant with memory and task scheduling doesn't need to be a "black box" of bloated frameworks.
+*   **[UnoClaw](https://github.com/2coderok/unoclaw)** — Minimalistic, single-file Python AI agents designed for hackers and researchers. Built to prove that a powerful AI assistant with memory and task scheduling doesn't need to be a "black box" of bloated frameworks.
 *   **[JazzPianoLab](https://jazzpianolab.app)** — A specialized application bridging music theory and software to help users learn jazz piano.
 
 ---
